@@ -1,6 +1,6 @@
 # TikTok App UI made using Flutter
 
-![demovid](https://user-images.githubusercontent.com/72114434/177692517-99b8b305-936b-422c-b73f-590fcd804d11.mp4)
+https://user-images.githubusercontent.com/72114434/177692517-99b8b305-936b-422c-b73f-590fcd804d11.mp4
 
 ### Technology Used
  - Dart Language
